@@ -5,3 +5,7 @@ Modify -> Add/Staging -> Commit
 add messages to commits that explain what you've done since the last commit.
 
 as for Git Remotes, I'm a little fuzzy.
+
+git clone will pull down forked friends repo.
+
+COOL!
