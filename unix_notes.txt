@@ -12,7 +12,7 @@ ls /
 ls ~
 cd
 ls /media
-ls / 
+ls /
 ls /home
 ls -l
 Public/
@@ -65,3 +65,7 @@ sudo apt-get install b43-fwcutter
 lspci -vvnn | grep -A 9 Network
 lspci -nnk | grep -A2 0280
 lspcji -nnk | grep -A2 0280
+
+I forgot to save moving_around.txt after adding notes to it before renaming it unix_notes.txt ... whoops.
+
+Hidden files begin with a "." they are hidden to help keep files from being too cluttered
